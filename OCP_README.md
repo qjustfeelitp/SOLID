@@ -1,0 +1,3 @@
+# Open closed principle
+
+* tøída by mìla být uzavøená modifikaci, ale otevøená rozšíøení
