@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace OPC_Example_01
+namespace OCP_Example_01
 {
     internal class Document
     {

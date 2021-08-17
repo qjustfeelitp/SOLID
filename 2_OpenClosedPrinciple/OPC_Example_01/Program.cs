@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace OPC_Example_01
+namespace OCP_Example_01
 {
     internal static class Program
     {

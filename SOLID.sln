@@ -5,56 +5,56 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_SingleResponsibilityPrinciple", "1_SingleResponsibilityPrinciple", "{34B47A16-3257-42AE-8A6C-590C3505E04B}"
 	ProjectSection(SolutionItems) = preProject
-		SRP_README.md = SRP_README.md
+		1_SingleResponsibilityPrinciple\SRP_README.md = 1_SingleResponsibilityPrinciple\SRP_README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP_Example_01", "SRP_Example_01\SRP_Example_01.csproj", "{DDF8045A-34EF-4919-A4F4-B2E90C58E07C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP_Example_01", "1_SingleResponsibilityPrinciple\SRP_Example_01\SRP_Example_01.csproj", "{DDF8045A-34EF-4919-A4F4-B2E90C58E07C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP_Example_02", "SRP_Example_02\SRP_Example_02.csproj", "{E998AC84-323A-4C51-9F2E-33E8933D3839}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP_Example_02", "1_SingleResponsibilityPrinciple\SRP_Example_02\SRP_Example_02.csproj", "{E998AC84-323A-4C51-9F2E-33E8933D3839}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP_Example_03", "SRP_Example_03\SRP_Example_03.csproj", "{1EB1E76B-725D-4DBD-8F47-F61120995788}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP_Example_03", "1_SingleResponsibilityPrinciple\SRP_Example_03\SRP_Example_03.csproj", "{1EB1E76B-725D-4DBD-8F47-F61120995788}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP_Example_04", "SRP_Example_04\SRP_Example_04.csproj", "{805716DC-0FA5-4964-94A5-FEDB781DC844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP_Example_04", "1_SingleResponsibilityPrinciple\SRP_Example_04\SRP_Example_04.csproj", "{805716DC-0FA5-4964-94A5-FEDB781DC844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP_Example_05", "SRP_Example_05\SRP_Example_05.csproj", "{7B705E86-003A-4EC1-84EC-9D049EA7A1B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP_Example_05", "1_SingleResponsibilityPrinciple\SRP_Example_05\SRP_Example_05.csproj", "{7B705E86-003A-4EC1-84EC-9D049EA7A1B3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_OpenClosedPrinciple", "2_OpenClosedPrinciple", "{2B0C2488-EBA4-4B82-8826-A08D5AC46CFD}"
 	ProjectSection(SolutionItems) = preProject
-		OCP_README.md = OCP_README.md
+		2_OpenClosedPrinciple\OCP_README.md = 2_OpenClosedPrinciple\OCP_README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPC_Example_01", "OPC_Example_01\OPC_Example_01.csproj", "{7FD60901-965A-4B62-A449-9CC2CA85F53F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP_Example_01", "2_OpenClosedPrinciple\OPC_Example_01\OCP_Example_01.csproj", "{7FD60901-965A-4B62-A449-9CC2CA85F53F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_Example_02", "OCP_Example_02\OCP_Example_02.csproj", "{1F1E89C1-291C-4F5D-A1EC-80F90BF9D65F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP_Example_02", "2_OpenClosedPrinciple\OCP_Example_02\OCP_Example_02.csproj", "{1F1E89C1-291C-4F5D-A1EC-80F90BF9D65F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_Example_03", "OCP_Example_03\OCP_Example_03.csproj", "{15982FE5-3789-4D4D-BC72-606998C48EBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP_Example_03", "2_OpenClosedPrinciple\OCP_Example_03\OCP_Example_03.csproj", "{15982FE5-3789-4D4D-BC72-606998C48EBE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_LiskovSubstitutionPrinciple", "3_LiskovSubstitutionPrinciple", "{7B57CDA7-C521-4939-909E-B6031BDEA931}"
 	ProjectSection(SolutionItems) = preProject
-		LSP_README.md = LSP_README.md
+		3_LiskovSubstitutionPrinciple\LSP_README.md = 3_LiskovSubstitutionPrinciple\LSP_README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP_Example_01", "LSP_Example_01\LSP_Example_01.csproj", "{E2FECA33-8E82-49E4-9315-71AA1C5E729C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LSP_Example_01", "3_LiskovSubstitutionPrinciple\LSP_Example_01\LSP_Example_01.csproj", "{E2FECA33-8E82-49E4-9315-71AA1C5E729C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP_Example_02", "LSP_Example_02\LSP_Example_02.csproj", "{8BB0A276-13DE-4B71-9783-8EDAF9CE1289}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LSP_Example_02", "3_LiskovSubstitutionPrinciple\LSP_Example_02\LSP_Example_02.csproj", "{8BB0A276-13DE-4B71-9783-8EDAF9CE1289}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4_InterfaceSegregationPrinciple", "4_InterfaceSegregationPrinciple", "{12CF59A2-AB91-4400-BF52-5D44A09DD9F2}"
 	ProjectSection(SolutionItems) = preProject
-		ISP_README.md = ISP_README.md
+		4_InterfaceSegregationPrinciple\ISP_README.md = 4_InterfaceSegregationPrinciple\ISP_README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP_Example_01", "ISP_Example_01\ISP_Example_01.csproj", "{FAFFEC01-5D14-41B1-8336-578DC8EE9A52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISP_Example_01", "4_InterfaceSegregationPrinciple\ISP_Example_01\ISP_Example_01.csproj", "{FAFFEC01-5D14-41B1-8336-578DC8EE9A52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP_Example_02", "ISP_Example_02\ISP_Example_02.csproj", "{B69265AD-94E9-49DB-B060-241D94579DD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISP_Example_02", "4_InterfaceSegregationPrinciple\ISP_Example_02\ISP_Example_02.csproj", "{B69265AD-94E9-49DB-B060-241D94579DD8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5_DependencyInversionPrinciple", "5_DependencyInversionPrinciple", "{5DED7D34-4356-4E3B-9BE3-42AA8758D1F6}"
 	ProjectSection(SolutionItems) = preProject
-		DIP_README.md = DIP_README.md
+		5_DependencyInversionPrinciple\DIP_README.md = 5_DependencyInversionPrinciple\DIP_README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP_Example_01", "DIP_Example_01\DIP_Example_01.csproj", "{63487BDF-B320-4D77-97A8-DDD1DD15BB46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIP_Example_01", "5_DependencyInversionPrinciple\DIP_Example_01\DIP_Example_01.csproj", "{63487BDF-B320-4D77-97A8-DDD1DD15BB46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP_Example_02", "DIP_Example_02\DIP_Example_02.csproj", "{1ACEA449-CB74-4D7C-8930-33C4160F41AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIP_Example_02", "5_DependencyInversionPrinciple\DIP_Example_02\DIP_Example_02.csproj", "{1ACEA449-CB74-4D7C-8930-33C4160F41AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
