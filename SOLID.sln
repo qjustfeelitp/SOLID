@@ -23,7 +23,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_OpenClosedPrinciple", "2_
 		2_OpenClosedPrinciple\OCP_README.md = 2_OpenClosedPrinciple\OCP_README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP_Example_01", "2_OpenClosedPrinciple\OPC_Example_01\OCP_Example_01.csproj", "{7FD60901-965A-4B62-A449-9CC2CA85F53F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP_Example_01", "2_OpenClosedPrinciple\OCP_Example_01\OCP_Example_01.csproj", "{7FD60901-965A-4B62-A449-9CC2CA85F53F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP_Example_02", "2_OpenClosedPrinciple\OCP_Example_02\OCP_Example_02.csproj", "{1F1E89C1-291C-4F5D-A1EC-80F90BF9D65F}"
 EndProject
